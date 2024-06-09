@@ -28,6 +28,8 @@ const InvoiceModal = ({
   total,
   dp,
   grandTotal,
+  accSosmed,
+  referalCode,
   onAddNextInvoice,
 }) => {
   function closeModal() {
@@ -191,14 +193,12 @@ const InvoiceModal = ({
                   </div>
                 </div>
                 <div className="mt-4 text-left">
-                  <div>
-                    <span>Akun Social Media:</span>
-                  </div>
-                  <div>
-                    <span>Kode Referral:</span>
-                  </div>
+                <div className="text-sm">
+                    <p className="font-bold">Akun Sosial Media :</p> <p>{accSosmed}</p>
+                    <p className="font-bold">Kode Referal :</p> <p>{referalCode}</p>
+                </div>
                   <div className="mt-4 text-left">
-                    <p className="font-bold">MOHON DIBACA DENGAN SEKSAMA, SYARAT & KETENTUAN:</p>
+                    <p className="font-bold">Syarat & Ketentuan:</p>
                     <ol className="list-decimal pl-4 text-sm">
                       <li>Tarif sewa dihitung per 24, 12 atau 6 jam sejak pengambilan.</li>
                       <li>Pembayaran harus LUNAS saat pengambilan dengan cash/tunai, QRIS atau transfer via rekening bank.</li>
