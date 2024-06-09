@@ -198,23 +198,23 @@ const InvoiceModal = ({
                     <span>Kode Referral:</span>
                   </div>
                   <div className="mt-4 text-left">
-                    <p className="font-bold">Syarat & Ketentuan:</p>
+                    <p className="font-bold">MOHON DIBACA DENGAN SEKSAMA, SYARAT & KETENTUAN:</p>
                     <ol className="list-decimal pl-4 text-sm">
                       <li>Tarif sewa dihitung per 24, 12 atau 6 jam sejak pengambilan.</li>
                       <li>Pembayaran harus LUNAS saat pengambilan dengan cash/tunai, QRIS atau transfer via rekening bank.</li>
                       <li>Penyewa harus meninggalkan minimal 2 identitas Jogja yang identik atas nama satu orang dan masih berlaku (KTP/SIM/KTM/KK/Ijazah).</li>
                       <li>Untuk nilai alat tertentu, jaminan harus dilengkapi dengan STNK/BPKB dan atau kendaraan bermotor.</li>
                       <li>Saat pengambilan barang, penyewa HARUS bersedia difoto dan menunjukkan akun media sosial yang aktif untuk diverifikasi.</li>
-                      <li>Kerusakan dan kehilangan barang, sepenuhnya DITANGGUNG oleh penyewa. Silakan cek kondisi & kelengkapan barang yang disewa saat penerimaan.</li>
-                      <li>Barang yang sudah disewa tidak boleh dialihkan ke pihak lain tanpa sepengetahuan dan ijin dari IFRAME Rental.</li>
-                      <li>Barang yang sudah disewa dan dibawa, dianggap telah digunakan. Uang yang sudah dibayarkan tidak dapat dikembalikan/cancel.</li>
-                      <li>Keterlambatan pengembalian akan dikenakan denda sesuai dengan tarif sewa harian yang berlaku.</li>
-                      <li>Barang sewaan harus kembali dalam kondisi baik dan lengkap sesuai dengan saat diterima.</li>
-                      <li>Apabila penyewa melanggar ketentuan, IFRAME Rental berhak menarik barang kapanpun dan dimanapun tanpa pengembalian uang sewa.</li>
-                      <li>Dengan menyewa, penyewa dianggap telah memahami dan menyetujui seluruh syarat dan ketentuan ini.</li>
-                      <li>Penyewa wajib menjaga kebersihan barang dan mengembalikannya dalam kondisi yang sama saat diterima.</li>
-                      <li>IFRAME Rental berhak menolak calon penyewa yang tidak memenuhi syarat dan ketentuan yang berlaku.</li>
-                      <li>Untuk keamanan dan kenyamanan bersama, harap patuhi syarat dan ketentuan yang telah ditetapkan.</li>
+                      <li>Kerusakan dan kehilangan barang, sepenuhnya DITANGGUNG oleh penyewa. Silakan cek kondisi & kelengkapan terlebih dahulu sebelum meninggalkan galeri.</li>
+                      <li>Pembatalan booking, dikenakan denda 50% dari DP yang telah dibayarkan.</li>
+                      <li>Bilamana penyewa mengembalikan lebih awal, sisa uang sewa tidak dapat dikembalikan. Namun akan ditukarkan dengan sewa di jadwal yang lain (reschedule).</li>
+                      <li>Lewat dari waktu pengembalian, akan dikenakan sanksi keterlambatan (overtime).</li>
+                      <li>Segala tindak pidana yang terjadi (penipuan, penggelapan, penggadaian tanpa izin dll) akan ditindak oleh TIM SECURITY kami dan dilaporkan ke pihak berwajib untuk ditindak lanjuti sesuai hukum yang berlaku.</li>
+                      <li>DILARANG KERAS mengalihkan unit kamera/peralatan yang disewa kepada orang lain tanpa izin manajemen.</li>
+                      <li>DILARANG KERAS melepas Stiker Segel/Logo iFrame(RJK) yang ditempel di unit.</li>
+                      <li>Penyewa setuju dikenai DENDA 10X dari tarik sewa atas pelanggaran pada poin 11 dan 12.</li>
+                      <li>Bila tidak siap dengan syarat dan ketentuan kami, mohon maaf kami tidak bisa melayani anda.</li>
+                      <li>Dengan menandatangani nota, berarti penyewa telah menyepakati syarat & ketentuan.</li>
                     </ol>
                   </div>
                   <div className="mt-4 flex justify-between">
